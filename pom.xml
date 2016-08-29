@@ -3,14 +3,14 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.in28minutes.maven</groupId>
+	<groupId>jUnit_Testing.maven</groupId>
 	<artifactId>junit-example</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<packaging>jar</packaging>
 
 	<name>JUnit_Test</name>
-	<url>http://www.in28minutes.com</url>
+	<url>https://github.com/alsmadi/JUnit_Testing</url>
 
 	<dependencies>
 		<dependency>
